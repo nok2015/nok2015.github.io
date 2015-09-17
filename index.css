@@ -32,10 +32,9 @@ logos {
 }
 
 footer {
-        position: absolute;
         bottom: 0;
+        position: absolute;
         width: 100%;
-        border-top: 1px solid #e7e7e7;
         background-color: #f8f8f8;
         text-align: center;
     
